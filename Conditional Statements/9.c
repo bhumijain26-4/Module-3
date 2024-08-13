@@ -1,6 +1,5 @@
 /*C Program to Check Uppercase or Lowercase or Digit or Special Character*/
 #include<stdio.h>
-#include<string.h>
 int main()
 {
    char ch;
